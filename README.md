@@ -13,3 +13,6 @@ nih repo dipakek buat latihan korsera juga ygy
 tambah line
 
 tambah baris lagi
+
+gw tambah lagi 2 baris
+sama ini
