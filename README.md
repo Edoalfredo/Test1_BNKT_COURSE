@@ -8,3 +8,5 @@ latihan membuat repo
 - Menambahkan teks ke dalam berkas readme.
 - Menyimpan berkas readme.
 - Melihat hasil penambahan berkas readme.
+
+nih repo dipakek buat latihan korsera juga ygy
